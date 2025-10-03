@@ -8,8 +8,12 @@ It includes:
 - A multiple-choice quiz to test awareness  
 
 ## 🚀 Live Project
+https://raw.githubusercontent.com/AderounmuBoluwatife5-lab/CodeAlpha_Phishing-Awareness-Training-/main/phishing_project.pptx
+
 [download/view slide (pptx)](phishing_project.pptx)
+
 [download/view slide (pdf)](phishing_project.pdf)
+
 Run the quiz locally: open `index.html` in your browser:  <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfW8SjMezj5ouBsssA_IYCMsVxyxbVCN07rLLhIVaWbEp4_dQ/viewform?embedded=true" width="640" height="2028" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
 
 ## 💻 Files
