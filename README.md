@@ -8,7 +8,7 @@ It includes:
 - A multiple-choice quiz to test awareness  
 
 ## 🚀 Live Project
-Download/View the slides: [phishing_project.pdf](phishing_project.pdf)  
+Download/View the slides:[PHISHING ATTACKS 1 - Copy.pptx](PHISHING ATTACKS 1 - Copy.pptx)  
 Run the quiz locally: open `index.html` in your browser.  
 
 ## 💻 Files
