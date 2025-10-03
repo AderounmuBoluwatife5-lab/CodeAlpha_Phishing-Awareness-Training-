@@ -1,4 +1,4 @@
-# CodeAlpha - Phishing Awareness Training
+# CodeAlpha_Phishing-Awareness-Training-
 
 ## 📌 Project Overview
 This project explains phishing attacks, their types (like email phishing), how to recognize them, how to avoid them, and what happens when you become a victim.  
@@ -19,6 +19,6 @@ Run the quiz locally: open `index.html` in your browser:  <iframe src="https://d
 - `phishing_project.pdf` — Slide deck presentation  
 
 ## 🔗 Repository Link
-[GitHub Repo](https://github.com/YourUsername/CodeAlpha_Phishing-Awareness-Training)
+[GitHub Repo](https://github.com/AderounmuBoluwatife5-lab/CodeAlpha_Phishing-Awareness-Training)
 # CodeAlpha_Phishing-Awareness-Training-
 This project presents an overview of phishing attacks, covering their types:like email phishing,how to recognize them, and the risks of falling victim. The slides are supported with interactive quizzes that use real-life scenarios and multiple-choice questions to test understanding on spotting phishing emails, avoiding and responding if targeted.
